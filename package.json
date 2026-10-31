@@ -1,0 +1,14 @@
+{
+  "name": "projeto-transferencias",
+  "version": "1.0.0",
+  "description": "API de Carteira Digital resiliente e concorrente - Projeto Transferências",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node tests/stress-test.js"
+  },
+  "dependencies": {
+    "fastify": "^5.2.0",
+    "pg": "^8.13.1"
+  }
+}
