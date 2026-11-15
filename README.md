@@ -1,7 +1,7 @@
 # Projeto: Transferências
 
 API de carteira digital desenvolvida com Node.js (Fastify) e PostgreSQL 16.
-
+Grupo: Agatha Fernanda, Miguel Jorge, Ana Leticia, Lucas Henrique, Eunicky Regina
 ## Como rodar
 
 ```bash
